@@ -3,14 +3,14 @@
 
 .holder{
 	display:grid;
-	grid-template-columns: repeat(2,200px);
-	grid-template-rows: repeat(2,200px);
+	grid-template-columns: repeat(2,100px);
+	grid-template-rows: repeat(2,100px);
 }
 
 
 .item{
-	width:200px;
-	height:200px;
+	width:100px;
+	height:100px;
 }
 
 .item-1{
